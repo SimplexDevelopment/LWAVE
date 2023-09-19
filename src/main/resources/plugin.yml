@@ -1,0 +1,11 @@
+name: 'L-WAVE'
+version: '${version}'
+main: app.simplexdev.lwave.LWAVE
+api-version: 1.20
+prefix: 'L-WAVE'
+load: STARTUP
+authors: [ SimplexDevelopment ]
+description: Light-Weight Async Vein Excavator for Spigot
+website: https://simplexdev.app
+libraries:
+  - io.projectreactor:reactor-core:3.5.8

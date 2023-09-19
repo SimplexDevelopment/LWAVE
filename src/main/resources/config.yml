@@ -1,0 +1,4 @@
+exclusions:
+  - STONE
+  - DIRT
+  - GRASS_BLOCK
