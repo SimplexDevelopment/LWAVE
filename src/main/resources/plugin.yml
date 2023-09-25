@@ -1,6 +1,6 @@
 name: 'L-WAVE'
 version: '${version}'
-main: app.simplexdev.lwave.LWAVE
+main: app.simplexdev.lwave.prototype1.Prototype1
 api-version: 1.20
 prefix: 'L-WAVE'
 load: STARTUP
